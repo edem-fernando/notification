@@ -1,5 +1,9 @@
 <?php
 
+/*
+ * eis a sua biblioteca para manipular envio de e-mail
+*/
+
 require __DIR__ . "/../lib_ext/autoload.php";
 
 use Notification\Email;
